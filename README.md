@@ -47,13 +47,14 @@ I added a history page to store previously shortened links while only three rece
 
 Screenshot
 
-‎![App Screenshot]
+‎![App Screenshot](./images/Screenshot_20251230-160033.png)
+‎![App Screenshot](./images/Screenshot_20251230-142449.png)
 
 Links
 
-Solution URL: GitHub Repository
+Solution URL: https://github.com/Mclakez/Url-shortener
 
-Live Site URL: Live Demo
+Live Site URL: https://url-shortener-dusky-gamma.vercel.app/
 
 My process
 
